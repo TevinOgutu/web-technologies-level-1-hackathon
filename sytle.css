@@ -1,0 +1,43 @@
+h1 {
+    color: blue;
+}
+
+img {
+    border: 5px solid green;
+    width: 80%;
+    height: 80%;
+    margin-top: 20px;
+}
+.form-section {
+    margin-top: 20px;
+  }
+  
+  form {
+    border: 1px solid black;
+    padding: 20px;
+    width: 300px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="number"],
+  input[type="password"],
+  select {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  input[type="button"],
+  input[type="submit"] {
+    margin-top: 10px;
+  }
+  
+  fieldset {
+    margin-bottom: 10px;
+  }
